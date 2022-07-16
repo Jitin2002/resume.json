@@ -1,0 +1,81 @@
+{
+    "basics": {
+        "name": "Jitin Dhakarwal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/101663044?s=400&u=701e4129dae5def1816204b2696ecb9666c5ba56&v=4",
+        "email": "2021kuec2018@iiitkota.ac.in",
+        "phone": "+919414772745",
+        
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communications Engineering. ",
+        "location": {
+            "address": "Daipur",
+            "postalCode": "341508",
+            "city": "Kuchaman city",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            
+            {
+                "network": "Github",
+                "username": "Jitin2002",
+                "url": "https://github.com/Jitin2002"
+            },
+           
+            {
+                "network": "Instagram",
+                "username": "Jitin_5772",
+                "url": "https://www.instagram.com/jitin_5772/"
+            }
+        ]
+    },
+   
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.13",
+            "courses": [
+                "Electronics and Communications Engineering"
+            ]
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+             
+                "C/C++",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Bodybulding",
+            "keywords": [
+                "Gym"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "vollyball",
+                "Badminton"
+            ]
+        }
+    ]
+}
